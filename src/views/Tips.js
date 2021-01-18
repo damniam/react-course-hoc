@@ -5,7 +5,7 @@ export default function Tips() {
   return (
     <div className="container">
       <h1 className="title">Tips</h1>
-      <Columns />
+      <Columns helloDamian="Damian" />
     </div>
   );
 }
